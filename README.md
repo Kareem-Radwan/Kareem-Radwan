@@ -67,8 +67,4 @@ Junior **Laravel developer** based in **Cairo, Egypt**. I build full-stack web a
 <a href="https://www.linkedin.com/in/kareem-ashraf-radwan"><img src="https://img.shields.io/badge/LinkedIn-Kareem_Ashraf-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/Kareem-Radwan"><img src="https://img.shields.io/badge/GitHub-Kareem--Radwan-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:00d4ff,50:302b63,100:0f0c29&section=footer" alt="footer" />
-
 </div>
